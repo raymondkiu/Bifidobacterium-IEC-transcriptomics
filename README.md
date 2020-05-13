@@ -1,4 +1,4 @@
-# sleuth
+# Bifidobacterium-IEC-transcriptomics
 Codes used to analyse RNA-Seq data using R library [Sleuth](https://github.com/pachterlab/sleuth) in this preprint:
 
 [***Bifidobacterium breve*** **UCC2003 induces a distinct global transcriptomic programme in neonatal murine intestinal epithelial cells**](https://doi.org/10.1101/2020.03.27.011692)

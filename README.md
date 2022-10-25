@@ -5,4 +5,4 @@ Codes used to analyse RNA-Seq data using R library [Sleuth](https://github.com/p
 
 [Raymond Kiu](https://scholar.google.co.uk/citations?user=42nSRqwAAAAJ&hl=en), Agatha Treveil, Lukas C. Harnisch, Shabhonam Caim, Charlotte Leclaire, Douwe van Sinderen, Tamas Korcsmaros,  Lindsay J. Hall
 
-<img src="https://github.com/raymondkiu/Bifidobacterium-IEC-transcriptomics/blob/master/paper1.png" width="400">
+<img src="https://github.com/raymondkiu/Bifidobacterium-IEC-transcriptomics/blob/master/bif1.png" width="400">
